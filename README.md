@@ -1,4 +1,4 @@
-#Scala Assignment 01
+# Scala Assignment 01
 
 ## Steps to Submit
 
@@ -13,7 +13,7 @@ git branch -M main
 git push -u origin main
 ```
 
-##Description
+## Description
 
 There are two files `edu.knoldus.Searching` and `edu.knoldus.Sorting`. You have to complete the implementation in those file. In order to test your code execute command `sbt test`.
 
@@ -23,4 +23,4 @@ Make sure of the following things:
 3. Run `sbt scalastyle` and make sure there are no `errors/warnings/info`
 4. If you have any questions please ask your mentors.
 
-###Good Luck, Have fun
+### Good Luck, Have fun
