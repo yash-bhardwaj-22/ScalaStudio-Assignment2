@@ -1,8 +1,8 @@
 package edu.knoldus
 
-import org.scalatest.FunSuite
+import org.scalatest.funsuite.AnyFunSuite
 
-class SortingTest extends FunSuite {
+class SortingTest extends AnyFunSuite {
 
   val sorting = new Sorting
 
